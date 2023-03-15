@@ -26,7 +26,7 @@ Caso queira executar o notebook, você pode clonar o repositório em sua máquin
 * Utilizando o Anaconda: O Anaconda é uma distribuição de Python que inclui muitas bibliotecas populares de ciência de dados e análise de dados. Você pode baixar e instalar o Anaconda em sua máquina, e em seguida, executar o Jupyter Notebook a partir do ambiente Anaconda Navigator.
 * Utilizando um ambiente de desenvolvimento integrado (IDE): Alguns IDEs populares para Python, como o PyCharm, têm suporte para Jupyter Notebooks integrado. Você pode abrir o notebook diretamente no IDE e executá-lo a partir daí.
 <BR>
-Você também visualizar o resultado da análise desse projeto, em um dashboard criado no Looker, disponível através dessa URL: https://lookerstudio.google.com/reporting/e57a0eb2-df6e-4edb-8229-88ba5b6f5f6d
+Você também visualizar o resultado da análise desse projeto, em um dashboard criado no Looker, disponível através dessa URL: https://lookerstudio.google.com/reporting/e57a0eb2-df6e-4edb-8229-88ba5b6f5f6d <BR>
 <BR>
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
