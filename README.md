@@ -3,14 +3,14 @@
 ## Descrição do projeto
 Esse projeto tem como objetivo analisar os dados referentes às produções (Filmes e Séries) presentes nos catálogos das plataformas de streaming Netflix e Amazon Prime Video.
 
-Como resultado dessa análise queremos responder às perguntas:
-1- Top 10 atores/atrizes considerando todos os dados;
-2- Top 5 países produtores de conteúdos considerando todos os dados e comparando as duas plataformas;
-3- Mês no qual há mais adições de filmes na plataforma Netflix;
-4- Quantidade de filmes listados como comédia;
-5- Lista de todos os gêneros de filmes;
-6- A frequência de "TV Show" de todos os dados e comparativamente em relação às duas plataformas;
-7- A frequência de "Movies" de todos os dados e comparativamente em relação às duas plataformas.
+Como resultado dessa análise queremos responder às perguntas:<BR>
+1- Top 10 atores/atrizes considerando todos os dados;<BR>
+2- Top 5 países produtores de conteúdos considerando todos os dados e comparando as duas plataformas;<BR>
+3- Mês no qual há mais adições de filmes na plataforma Netflix;<BR>
+4- Quantidade de filmes listados como comédia;<BR>
+5- Lista de todos os gêneros de filmes;<BR>
+6- A frequência de "TV Show" de todos os dados e comparativamente em relação às duas plataformas;<BR>
+7- A frequência de "Movies" de todos os dados e comparativamente em relação às duas plataformas.<BR>
 
 ## Ferramentas utilizadas:
 * Pandas
